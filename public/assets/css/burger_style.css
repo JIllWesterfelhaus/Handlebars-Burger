@@ -10,14 +10,13 @@ body {
     color: darkred;
   }
 
-  .todevour {
-    text-align: left;
-    padding-top: 30px;
-  }
+   .todevour {
+     text-align: left;
+   }
 
   .devoured {
     text-align: right;
-  }
+  } 
 
   .addburger {
     text-align: center;
