@@ -22,3 +22,9 @@ body {
     text-align: center;
     padding-top: 30px;
   }
+
+  .png {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+  
