@@ -2,7 +2,7 @@
 <div class = "todevour">
 <h1>Eat Da Burger!</h1>
 <h2>Burgers you want to devour!</h2>
-<ul>
+<ul style="list-style: none;">
   {{#each burgers}}
     {{#unless devoured}}
       {{> burgers/burger-block devoured=true}}
@@ -13,7 +13,7 @@
 
 <div class = "devoured">
 <h2>Burgers that are devoured!</h2>
-<ul>
+<ul style="list-style: none;">
   {{#each burgers}}
     {{#if devoured}}
       {{> burgers/burger-block devoured=false}}
