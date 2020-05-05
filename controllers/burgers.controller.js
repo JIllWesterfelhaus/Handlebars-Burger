@@ -1,5 +1,5 @@
-//Need to import express and burgers.js
-//Need to create router and export to end of the file.
+//Import express and burgers.j
+//Create router and export to end of the file.
 
 var express = require("express");
 

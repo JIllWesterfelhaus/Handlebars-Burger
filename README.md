@@ -18,9 +18,9 @@ This was built with Node, mySQL, Handlebars, and Express.
 
 ## Build Status
 
-This app is currently incomplete.  
+This app is complete.  Here is a YouTube link to a demo of the completed app:   https://youtu.be/7Cp3B-I3ANU
 
 ## Credits
 
-I would like to thank the TV show "Bob's Burgers."  I used names of various Burgers of the Day as seeds for mySQL.
+I would like to thank my tutor, Daniel Masters, for helping me finish this assignment. 
 
