@@ -9,3 +9,16 @@ body {
     padding: 25px;
     color: darkred;
   }
+
+  .todevour {
+    text-align: left;
+    padding-top: 30px;
+  }
+
+  .devoured {
+    text-align: right;
+  }
+
+  .addburger {
+    text-align: center;
+  }
