@@ -1,7 +1,10 @@
 {{! set up template that Handlebars can render onto }}
-
-<div class = "todevour">
 <h1>Eat Da Burger!</h1>
+<div class ="container">
+<div class = "row">
+  <div class = "col-md">
+<div class = "todevour">
+
 <h3>Burgers you want to devour!</h3>
 <ul style="list-style: none;">
   {{#each burgers}}
@@ -11,7 +14,12 @@
   {{/each}}
 </ul>
 </div>
+</div>
 
+<div class = "col-md">
+<h3>Burger PNG Here</h3>
+</div>
+<div class = "col-md">
 <div class = "devoured">
 <h3>Burgers that are devoured!</h3>
 <ul style="list-style: none;">
@@ -22,9 +30,13 @@
   {{/each}}
 </ul>
 </div>
+</div>
+</div>
+</div>
+
 
 <div class = "addburger">
-<h3>Add a Burger</h3>
+<h3>Add a Burger</h2>
 <form class="create-form">
 
   <div class="form-group">
