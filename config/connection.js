@@ -4,12 +4,12 @@ var mysql = require("mysql");
 //connection for mysql
 var connection = mysql.createConnection({
   host: "localhost",
-  port: 3306,
+  port: 8080,
   user: "root",
   password: "mySQL1234!",
   database: "burgers_db"
 });
-//throw error if error
+//make connection, throw error if needed
 connection.connect(function(err) {
   if (err) {
     console.error("error connecting: " + err.stack);
