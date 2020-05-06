@@ -22,5 +22,7 @@ This app is complete.  Here is a YouTube link to a demo of the completed app:   
 
 ## Credits
 
+The code for this app was adapted from class activity 17, week 13, "CatsApp," Northwestern Coding Bootcamp.
+
 I would like to thank my tutor, Daniel Masters, for helping me finish this assignment. 
 
