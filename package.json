@@ -4,7 +4,8 @@
   "description": "Assignment, NU Coding Bootcamp.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -21,4 +22,5 @@
     "express-handlebars": "^4.0.4",
     "mysql": "^2.18.1"
   }
+  
 }
