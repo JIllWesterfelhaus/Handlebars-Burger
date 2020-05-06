@@ -1,4 +1,4 @@
-//require express here, from cats # 17
+//require express here
 var express = require("express");
 
 var PORT = process.env.PORT || 3000;
