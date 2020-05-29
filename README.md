@@ -21,7 +21,7 @@ This was built with Node, mySQL, Handlebars, and Express.
 This app is complete.  Here is a YouTube link to a demo of the completed app:   https://youtu.be/7Cp3B-I3ANU
 Here is a link to the deployed app:  https://limitless-escarpment-12108.herokuapp.com/
 
-<img src= "public/assets/img/burger.png">
+<img src= "public/assets/img/burgerpage">
 
 
 ## Credits
