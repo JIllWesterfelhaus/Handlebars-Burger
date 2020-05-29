@@ -7,9 +7,16 @@ This is an app that tracks burgers the user has eaten and wants to eat.
 ## Motivation
 
 This is an assignment for Northwestern University's Coding Bootcamp.
+
+
 AS A person who likes burgers
+
+
 I WANT an app that tracks burgers I have tried and that I want to try
+
+
 SO THAT I can recall what burgers I have already tried and want to try. 
+
 
 ## Contributors
 
