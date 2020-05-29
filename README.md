@@ -8,6 +8,7 @@ This is an app that tracks burgers the user has eaten and wants to eat.
 
 This is an assignment for Northwestern University's Coding Bootcamp.
 
+## User Story
 
 AS A person who likes burgers
 
